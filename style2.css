@@ -1,0 +1,28 @@
+.text_l {
+    text-align: center;
+    font-size: large;
+}
+
+.text_s {
+    font-size: small;
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+.loginField {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+.notice {
+    margin: 30px;
+}
+
+.btn_login {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+}
